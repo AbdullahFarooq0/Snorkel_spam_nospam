@@ -47,7 +47,7 @@ This code demonstrates how to use Snorkel, a data-centric AI framework, to devel
     - Create a new dataset of reviews and transform it using the trained vectorizer.
     - Use the trained logistic regression model to predict whether each new review is spam or ham.
    
-#For Email Spam check:
+# For Email Spam check:
 Setup and Data Loading:
 
 Gather a dataset of emails labeled as spam or non-spam (ham). This dataset should be divided into training and test sets.
